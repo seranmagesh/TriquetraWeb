@@ -4,22 +4,27 @@
 
 
 .head-title{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-weight: 500; */
+    display: flex;
 }
 #option-text{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-weight: 100; */
+    display: flex;
 
 }
 .content-heading{
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    display: flex;
 }
 .paragraph{
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-weight: 500; */
+    display: flex;
 }
 .foot-title{
-    font-family: 'Stick No Bills', sans-serif;
-    font-weight: 500;
+    /* font-family: 'Stick No Bills', sans-serif; */
+    /* font-weight: 500; */
+    display: flex;
 }
