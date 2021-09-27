@@ -2,6 +2,24 @@
 
 
 
-.cursive{
-    font-family: 'Birthstone', cursive;
+
+.head-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+#option-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+
+}
+.content-heading{
+    font-family: 'Roboto', sans-serif;
+}
+.paragraph{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.foot-title{
+    font-family: 'Stick No Bills', sans-serif;
+    font-weight: 500;
 }
